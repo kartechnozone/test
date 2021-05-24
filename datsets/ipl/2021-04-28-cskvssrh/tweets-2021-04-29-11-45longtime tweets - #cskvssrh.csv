@@ -1,0 +1,69 @@
+query = longtime tweets
+event = #cskvssrh
+Time,Id,user name,Text,Created at,Place,Retweet count,Ploarity,Subjectivity
+2021-04-29  11:45,1387606830113869825,paleotaissa,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 03:17:03,"Vitória, Espírito Santo",18,-0.2,0.25
+2021-04-29  11:45,1387602980946382851,barnaclebarclay,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 03:01:45,,18,-0.2,0.25
+2021-04-29  11:45,1387598206209454081,KristinAquilino,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 02:42:47,UC Davis,18,-0.2,0.25
+2021-04-29  11:45,1387592315116654603,lkbaumgartner,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 02:19:22,"Colorado, USA",18,-0.2,0.25
+2021-04-29  11:45,1387587480333946882,surt_lab,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 02:00:10,baltrus(at)email.arizona.edu,18,-0.2,0.25
+2021-04-29  11:45,1387587370631979010,kristinlmlewis,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 01:59:43,"Washington, DC",18,-0.2,0.25
+2021-04-29  11:45,1387584382286942209,younglandis,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 01:47:51,Nisenan/Miwok Lands/Sacramento,18,-0.2,0.25
+2021-04-29  11:45,1387581504134389761,alisonborealis,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 01:36:25,"Edmonton, Alberta, Treaty Six",18,-0.2,0.25
+2021-04-29  11:45,1387580791291527170,jananiharan,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 01:33:35,,18,-0.2,0.25
+2021-04-29  11:45,1387579890501754887,lia_pas,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 01:30:00,Saskatoon,18,-0.2,0.25
+2021-04-29  11:45,1387578985576505345,scicommdaniel,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 01:26:24,"Patwin Land (Davis, CA)",18,-0.2,0.25
+2021-04-29  11:45,1387569425822502914,HLockeSTEM,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 00:48:25,"Houston, TX",18,-0.2,0.25
+2021-04-29  11:45,1387567667721109506,AndersenFields,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 00:41:26,North Puget Sound ,18,-0.2,0.25
+2021-04-29  11:45,1387564741875298304,priyology,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-29 00:29:48,Occupied Costonoan/Ohlone Land,18,-0.2,0.25
+2021-04-29  11:45,1387537103769198593,AVazquezCatoni,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-28 22:39:59,Views are my own,18,-0.2,0.25
+2021-04-29  11:45,1387502490375966720,it_pendar,"@ErnstPauli88 When I started seeing ""my longtime partner is a useless bum lol"" tweets I knew the shit turned into F… https://t.co/fHb2Py9q4d",2021-04-28 20:22:26,,0,0.03333333333333335,0.5666666666666667
+2021-04-29  11:45,1387485387795226624,ohthat_lauren,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-28 19:14:29,Reading something heavy,18,-0.2,0.25
+2021-04-29  11:45,1387483880958005249,spmcdonnell,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-28 19:08:30,"California, USA",18,-0.2,0.25
+2021-04-29  11:45,1387483714335113217,kheyduk,"RT @may_gun: Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, allies could b…",2021-04-28 19:07:50,"Honolulu, HI",18,-0.2,0.25
+2021-04-29  11:45,1387483528544219137,may_gun,"Longtime followers know that for at least 4 yrs now I've spent a lot of time auditing tweets for alt text (BTW, all… https://t.co/YSBStfpZFa",2021-04-28 19:07:06,"University Farm, Davis, CA",18,-0.2,0.25
+2021-04-29  11:45,1387453909099294733,puppypawbz,"RT @UnicornMarch: Now, a few tweets about historical context.
+
+First, if it matters: Lyon and Martin were from the Bay Area, as am I. I kno…",2021-04-28 17:09:24,"Champaign, IL",4,0.016666666666666663,0.14444444444444446
+2021-04-29  11:45,1387305866345410564,feauture,"Hi everyone, do guys follow Varun Account, our TDP soldier. Every individual from TDPTwitter is well known varun, m… https://t.co/UjsoyQgIQW",2021-04-28 07:21:08,West Godavari,0,0.0,0.4
+2021-04-29  11:45,1387180956109398019,thejefflipson,@imnotTomJones @FauSzn And the “decent” pp QB has 0 goals and 5 assists on the PP to his name in his last 27 games… https://t.co/VDfZDhKQh1,2021-04-27 23:04:47,"Miami, FL",0,0.08333333333333333,0.36666666666666664
+2021-04-29  11:45,1387168673299935238,BlueberryAura9K,Longtime meen see tweets like these. https://t.co/fbLpzPxwZC,2021-04-27 22:15:58,"Hidden Trvp Villvge 980 , 🇻🇨",0,0.0,0.0
+2021-04-29  11:45,1387147955686289414,joshojosherino,@WalshFreedom I engage with a lot of longtime gopers and trumplicans too and I see the same things you describe in… https://t.co/5Ay8mT0SoC,2021-04-27 20:53:39,,0,0.0,0.125
+2021-04-29  11:45,1387115239376887816,centraletude,"like this &amp; quote one of your tweets in the replies &amp; I'll write it in my sketchbook in pretty pen!
+(as long as it'… https://t.co/Vy9Ge3bUAO",2021-04-27 18:43:39,granvelle castle's empty crypt,0,0.13125,0.7
+2021-04-29  11:45,1387018272957206530,styleboybrolin,@Emilyweb2 @OluwaKorede_FG @thicktimah @burnaboy Burna is not a legend! Those tweets is just to let u know been up… https://t.co/iWEvhOUVxe,2021-04-27 12:18:20,Instagram @brolin__brolin,0,0.0,0.0
+2021-04-29  11:45,1386741083376214016,OldeHippieDude,"RT @photosbyglenn: 10-year member of PPA. Longtime and now (early) retired member of The Society of Professional Journalists. I abide, resp…",2021-04-26 17:56:53,"Cerrillos, New Mexico",1,0.1,0.2
+2021-04-29  11:45,1386706307407912965,Eades_Tweets,"RT @nicktolhurst: Circular firing squad alert
+
+Longtime Boris-groupie Nadine Dorries MP now openly attacking &amp; slandering the pro Tory Dail…",2021-04-26 15:38:42,Royal Leamington Spa,81,0.0,0.5
+2021-04-29  11:45,1386435445286866951,lustan_invest,"Follow @TheTradinator for tweets about trading, portofolio updates, longtime investments and more😁✋",2021-04-25 21:42:23,,0,0.0,0.0
+2021-04-29  11:45,1385995998736965632,cyrptoem,"@ASSGiveawayS @assfinance Whatever you do, don’t tweet to the @BCBacker. He’s blocking all $ASS tweets. Even to lon… https://t.co/4mhMo1ZYdm",2021-04-24 16:36:11,,0,0.0,0.0
+2021-04-29  11:45,1385965769473863684,mediaworksPR,"I just discovered:
+
+-my longtime neighbors on 3 sides have ""disappeared."" 
+
+-my home has been illegally breached as… https://t.co/89B6S8HvI5",2021-04-24 14:36:04,,0,-0.5,0.5
+2021-04-29  11:45,1385955061155700737,philou88291693,RT @livewirelois: TWITTER IS EXTREMELY* COMPROMISED* IT MOVES SLOW* PEOPLE ARE ABLE TO REMOVE AND HIJACK YOUR PINNED😱 TWEETS* YOU CAN'T SEE…,2021-04-24 13:53:31,"Malaga, Espagne",17,0.024999999999999984,0.6749999999999999
+2021-04-29  11:45,1385953983827644418,mayu94340900,RT @livewirelois: TWITTER IS EXTREMELY* COMPROMISED* IT MOVES SLOW* PEOPLE ARE ABLE TO REMOVE AND HIJACK YOUR PINNED😱 TWEETS* YOU CAN'T SEE…,2021-04-24 13:49:14,,17,0.024999999999999984,0.6749999999999999
+2021-04-29  11:45,1385942512628637704,robert_suchy,RT @livewirelois: TWITTER IS EXTREMELY* COMPROMISED* IT MOVES SLOW* PEOPLE ARE ABLE TO REMOVE AND HIJACK YOUR PINNED😱 TWEETS* YOU CAN'T SEE…,2021-04-24 13:03:39,"Oakwood, IL",17,0.024999999999999984,0.6749999999999999
+2021-04-29  11:45,1385941816969613314,F2626Israel,RT @livewirelois: TWITTER IS EXTREMELY* COMPROMISED* IT MOVES SLOW* PEOPLE ARE ABLE TO REMOVE AND HIJACK YOUR PINNED😱 TWEETS* YOU CAN'T SEE…,2021-04-24 13:00:53,,17,0.024999999999999984,0.6749999999999999
+2021-04-29  11:45,1385940626953359360,livewirelois,RT @livewirelois: TWITTER IS EXTREMELY* COMPROMISED* IT MOVES SLOW* PEOPLE ARE ABLE TO REMOVE AND HIJACK YOUR PINNED😱 TWEETS* YOU CAN'T SEE…,2021-04-24 12:56:09,"New York, USA",17,0.024999999999999984,0.6749999999999999
+2021-04-29  11:45,1385906631603486720,shampa_basak,"@BajpayeeManoj Sir, pls save my children from hunger, pleading for some financial help since a longtime. #Plshelpus… https://t.co/Y76tNfphVQ",2021-04-24 10:41:04,"Kolkata, India",0,0.0,0.0
+2021-04-29  11:45,1385513213564014594,PlumbobTV,"The funny thing is I follow streamers who's channels I lurk in and reply on their tweets, I bet they think 'who's t… https://t.co/Om2KQtTgic",2021-04-23 08:37:46,Lincolnshire ,0,0.25,1.0
+2021-04-29  11:45,1385380924620165121,peo1595,"@PTI Longtime fan of the show, but surprised that you did not make any mention of Lebron's Tweets regarding the Ohi… https://t.co/xbs71ZNH8j",2021-04-22 23:52:06,,0,0.1,0.9
+2021-04-29  11:45,1385314792022417421,DeniseGriewisch,"I think Dems she have made a stand about the filibuster when Pelosi stood for the longtime one in history, in famou… https://t.co/5RvtBfKyTh",2021-04-22 19:29:18,"Florida, USA",0,0.0,0.0
+2021-04-29  11:45,1385293756207931396,notjustveggie,"RT @SorchaHolloway: Welcome to #ukwinehour - I’m Sorcha, your host &amp; founder, longtime lover of #aussiewine.
+
+Our theme tonight is ‘Diverse…",2021-04-22 18:05:43,"London, UK",3,0.8,0.9
+2021-04-29  11:45,1385293419820552194,ukwinehour,"RT @SorchaHolloway: Welcome to #ukwinehour - I’m Sorcha, your host &amp; founder, longtime lover of #aussiewine.
+
+Our theme tonight is ‘Diverse…",2021-04-22 18:04:23,United Kingdom,3,0.8,0.9
+2021-04-29  11:45,1385293340988542982,Chambave,"RT @SorchaHolloway: Welcome to #ukwinehour - I’m Sorcha, your host &amp; founder, longtime lover of #aussiewine.
+
+Our theme tonight is ‘Diverse…",2021-04-22 18:04:04,Uranus,3,0.8,0.9
+2021-04-29  11:45,1385292730780241921,SorchaHolloway,"Welcome to #ukwinehour - I’m Sorcha, your host &amp; founder, longtime lover of #aussiewine.
+
+Our theme tonight is ‘Div… https://t.co/ZkiYR6hdHy",2021-04-22 18:01:39,"Plymouth, England",3,0.8,0.9
+2021-04-29  11:45,1385243993584279553,Mayasfits,"@TomBresnahan17 Greetings, not ashamed 2 admit I'm a big longtime Ski School fan &amp; just saw U on an old ep of Famil… https://t.co/VsibuYeD9k",2021-04-22 14:47:59,"Glenby, FL or Brooks, AZ",0,0.05,0.15000000000000002
+2021-04-29  11:45,1385197933461528580,ParjieaNayan,"@MumbaiPolice has time to give reply to the nonsense questions keeping aside/skipping the genuine tweets !! 
+I am w… https://t.co/n1YlcuJZrv",2021-04-22 11:44:57,"Mumbai, India",0,0.625,0.5
+2021-04-29  11:45,1384752206574886914,cocacococrunch,@icetarolattee longtime no reply your 7368367 tweets,2021-04-21 06:13:48,"Central Java, Indonesia",0,0.0,0.0
